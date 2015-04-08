@@ -6,7 +6,7 @@ Profile
 
 ![icon](/top.jpg)
 
-- $\alpha$-JustDoIt
+- echo JustDoIt | rev
 
 - College of Biological Sciences, University of Tsukuba
 
